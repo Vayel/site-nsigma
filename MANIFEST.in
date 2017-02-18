@@ -1,0 +1,2 @@
+recursive-include nsigma_site/**/templates *
+recursive-include nsigma_site/**/static *
